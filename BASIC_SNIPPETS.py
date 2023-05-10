@@ -1,11 +1,11 @@
 # Display input and output
 print("INPUT AND OUTPUT")
-print("Hello python")
-print("Hello python\nHello python")
-print("Hello" + " python")
-print("Hello" + " " + "python")
+print("Hello Python")
+print("Hello Java\nHello Javascript")
+print("Hello" + " JQuery")
+print("Hello" + " " + "SQL")
 # F-String
-value = "PYTHON"
+value = "Angular"
 print(f"Hello {value}")
 # input from command prompt
 print(input("What is your name? "))
