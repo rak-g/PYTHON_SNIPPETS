@@ -181,7 +181,7 @@ for index in web_series:
 print("")
 
 print("SPLIT USAGE")
-fruit = "apple#banana#cherry#orange"
+fruit = "apple#banana#cherry#orange#blueberry"
 
 # Replace # with comma
 print(fruit.split("#", ))
