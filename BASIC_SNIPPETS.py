@@ -1,13 +1,13 @@
 # Display input and output
 print("INPUT AND OUTPUT")
-print("Hello Python")
-print("Hello Java\nHello Javascript")
-print("Hello" + " JQuery")
-print("Hello" + " " + "SQL")
+print("Hello python")
+print("Hello python\nHello python")
+print("Hello" + " python")
+print("Hello" + " " + "python")
 # F-String
-value = "Angular"
+value = "PYTHON"
 print(f"Hello {value}")
-# input from command prompt
+# Input from command prompt
 print(input("What is your name? "))
 # Concatenation along with input from command prompt
 print("Hello" + " " + input("What is your name? "))
@@ -181,7 +181,7 @@ for index in web_series:
 print("")
 
 print("SPLIT USAGE")
-fruit = "apple#banana#cherry#orange#blueberry"
+fruit = "apple#banana#cherry#orange"
 
 # Replace # with comma
 print(fruit.split("#", ))
@@ -236,3 +236,6 @@ total = 0
 for number in range(1, 101):
     total += number
 print(total)
+
+
+
